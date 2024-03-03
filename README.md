@@ -1,31 +1,31 @@
-Mall Customer Segmentation Analysis - Clustering
+**Mall Customer Segmentation Analysis - Clustering**
 
-Context
+**Context**
 
-This data set is created only for the learning purpose of the customer segmentation concepts , also known as market basket analysis . I will demonstrate this by using unsupervised ML technique (KMeans Clustering Algorithm) in the simplest form.
+This data set is created only for the learning purpose of the customer segmentation concepts, also known as market basket analysis. I will demonstrate this by using the unsupervised ML technique (KMeans Clustering Algorithm) in the simplest form.
 
-Content
+**Content**
 
-You are owing a supermarket mall and through membership cards , you have some basic data about your customers like Customer ID, age, gender, annual income and spending score. Spending Score is something you assign to the customer based on your defined parameters like customer behavior and purchasing data.
+You own a supermarket mall and through membership cards, you have some basic data about your customers like Customer ID, age, gender, annual income and spending score. Spending Score is something you assign to the customer based on your defined parameters like customer behavior and purchasing data.
 
-Problem Statement
+**Problem Statement**
 
-You own the mall and want to understand the customers like who can be easily converge [Target Customers] so that the sense can be given to marketing team and plan the strategy accordingly.
+You own the mall and want to understand the customers who can easily converge [Target Customers] so that the sense can be given to the marketing team and plan the strategy accordingly.
 
-Attributes
-   1.Customer ID
-   2.Age
-   3.Gender
-   4.Annual income
-   5.Spending score
+**Attributes**
+   1. Customer ID
+   2. Age
+   3. Gender
+   4. Annual income
+   5. Spending score
 
- Libraries
-    1.pandas
-    2.matplotlib
-    3.seaborn
-    4.scikit-learn
+ **Libraries**
+    1. pandas
+    2. matplotlib
+    3. seaborn
+    4. scikit-learn
      
-Algorithm---Kmeans Clustering
+**Algorithm---Kmeans Clustering**
 
 
 Conclusion:  
